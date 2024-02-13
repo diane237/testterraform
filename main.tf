@@ -12,3 +12,5 @@
               echo '<h1>This is deployed by Serge </h1>' | sudo tee /var/www/html/index.html
               sudo useradd serge 
               EOF
+
+ }
